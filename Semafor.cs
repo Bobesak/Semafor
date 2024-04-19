@@ -31,6 +31,9 @@ while (Jede)
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("Stuj");
             break;
+        default :
+            Console.WriteLine("jses kokot neumis psat debile");
+            break;
     }
     Console.ForegroundColor = ConsoleColor.White;
     Console.WriteLine("stojis u semaforu? (True/False)");
