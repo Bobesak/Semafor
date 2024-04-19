@@ -1,0 +1,15 @@
+C:\Users\robert.nadymacek\Documents\GitHub\Semafor\bin\Debug\net7.0\Semafor.exe
+C:\Users\robert.nadymacek\Documents\GitHub\Semafor\bin\Debug\net7.0\Semafor.deps.json
+C:\Users\robert.nadymacek\Documents\GitHub\Semafor\bin\Debug\net7.0\Semafor.runtimeconfig.json
+C:\Users\robert.nadymacek\Documents\GitHub\Semafor\bin\Debug\net7.0\Semafor.dll
+C:\Users\robert.nadymacek\Documents\GitHub\Semafor\bin\Debug\net7.0\Semafor.pdb
+C:\Users\robert.nadymacek\Documents\GitHub\Semafor\obj\Debug\net7.0\Semafor.csproj.AssemblyReference.cache
+C:\Users\robert.nadymacek\Documents\GitHub\Semafor\obj\Debug\net7.0\Semafor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robert.nadymacek\Documents\GitHub\Semafor\obj\Debug\net7.0\Semafor.AssemblyInfoInputs.cache
+C:\Users\robert.nadymacek\Documents\GitHub\Semafor\obj\Debug\net7.0\Semafor.AssemblyInfo.cs
+C:\Users\robert.nadymacek\Documents\GitHub\Semafor\obj\Debug\net7.0\Semafor.csproj.CoreCompileInputs.cache
+C:\Users\robert.nadymacek\Documents\GitHub\Semafor\obj\Debug\net7.0\Semafor.dll
+C:\Users\robert.nadymacek\Documents\GitHub\Semafor\obj\Debug\net7.0\refint\Semafor.dll
+C:\Users\robert.nadymacek\Documents\GitHub\Semafor\obj\Debug\net7.0\Semafor.pdb
+C:\Users\robert.nadymacek\Documents\GitHub\Semafor\obj\Debug\net7.0\Semafor.genruntimeconfig.cache
+C:\Users\robert.nadymacek\Documents\GitHub\Semafor\obj\Debug\net7.0\ref\Semafor.dll
